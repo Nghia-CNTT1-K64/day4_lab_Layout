@@ -228,3 +228,4 @@ G:\code-tren-lop\lapTrinhWeb\layOut-12-9\layOut-12-9\bin\Debug\net8.0\runtimes\w
 G:\code-tren-lop\lapTrinhWeb\layOut-12-9\layOut-12-9\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 G:\code-tren-lop\lapTrinhWeb\layOut-12-9\layOut-12-9\obj\Debug\net8.0\layOut-12-9.csproj.AssemblyReference.cache
 G:\code-tren-lop\lapTrinhWeb\layOut-12-9\layOut-12-9\obj\Debug\net8.0\layOut-1.1C6B3C79.Up2Date
+G:\code-tren-lop\lapTrinhWeb\layOut-12-9\layOut-12-9\obj\Debug\net8.0\layOut-12-9.sourcelink.json
